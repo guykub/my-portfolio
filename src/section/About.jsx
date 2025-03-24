@@ -20,7 +20,8 @@ function About() {
           </h2>
           <div className="p-8 mb-6 rounded-xl border-white/10 border-2 hover:-translate-y-1 transition-all ">
             <p className="text-gray-300 mb-5 text-xl">
-                Hello I' m Worrapob Larpawong, but you can call me Guy.
+                Hello I' m Worrapob Larpawong, but you can call me Guy. Currently pursuing my bachelor ' s degree in Computer Electronics Technology at KMUTNB.
+                Passionate about Backend Frontend web application and Cloud Computing. My strengths lie in positive thinking, driving me towards innovation and growth.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">

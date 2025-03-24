@@ -11,8 +11,7 @@ function Home() {
     <div className='text-center font-mono z-10 px-4'>
         <h1 className='text-4xl md:text-5xl lg:text-6xl lf:max-w-w[500px] font-semibold mb-6 px-1 bg-gradient-to-r from-teal-400 via-blue-500 to-indigo-600 bg-clip-text text-transparent leading-right'>I am Worrapob Larpawong</h1>
         <p className='text-gray-300 text-lg mb-8 max-w-lg mx-auto'>
-        Hello I' m Worrapob Larpawong, but you can call me Guy. Currently pursuing my bachelor ' s degree in Computer Electronics Technology at KMUTNB.
-        Passionate about Backend Frontend web application and Cloud Computing. My strengths lie in positive thinking, driving me towards innovation and growth.{" "}
+        Hello I' m Worrapob Larpawong{" "}
         </p>
         <div className='flex justify-center items-center space-x-4'>
             <a className='bg-gradient-to-r flex flex-row from-teal-500 to-indigo-600 py-3 px-6 rounded hover:-translate-y-1 hover:shadow-[0_0_15px_[rgba(59,130,246,0.4)] font-medium transition relative overflow-hidden' href={transcript} target='_blank'>
