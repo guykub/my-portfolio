@@ -49,7 +49,7 @@ function About() {
                     {" "}
                     <em>B.S. in Electronic Computer Technology </em>{" "}
                   </strong>
-                  KingMongkut'sUniversity of TechnologyNorthBangkok
+                  KingMongkut's University of Technology North Bangkok
                 </li>
               </ul>
             </div>
